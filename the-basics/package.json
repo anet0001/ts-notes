@@ -1,0 +1,16 @@
+{
+  "name": "the-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "basics.js",
+  "scripts": {
+    "run": "npx ts-node basics.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
