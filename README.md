@@ -1,1 +1,1 @@
-# ts-notes - Notes from my TS tutorials.
+# ts-notes - My TS Notes.
